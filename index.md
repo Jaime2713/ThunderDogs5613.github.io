@@ -1,37 +1,25 @@
-# THUNDERDOGS FRC TEAM- 5613
+## Thunderdogs
+#### FIRST Robotics Competition Team 5613
+#### Alamogordo, New Mexico
+---
+- Thunderdogs FIRST Robotics Competition "FRC" Team 5613 is an Otero County New Mexico community team. 
+- Our team formed in 2014 and welcomes all Otero County teens ages 14-18. Our mission is to both learn and teach. 
+- We learn about STEM from our mentors and each other as we have fun working as a team to create a functioning robot. 
+- The Thunderdogs team now consists of 12 team members, 4 parent mentors, and 2 coaches.
+- To find out more about the team and its accomplishments, click the link below, or follow us on any of our social media.
 
-You can use the [editor on GitHub](https://github.com/ThunderDogs5613/ThunderDogs5613.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Jump into the fun and join our team today!
 
-### Markdown
+2018 FIRST Robotics Competition Game - FIRST® POWER UPSMThe adventure begins January 6, 2018. Play for Real!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Be part of the more than 3,600 teams in 2018 comprised of 90,000 students and their adult mentors from around the world who will get to “play for real” in FIRST® POWER UPSM
+FIRST Robotics Competition is the ultimate Sport for the MindTM, where imagination and innovation come together! By combining the excitement of sport and beauty of art with the rigors of science and technology, teams of high school students (ages 14 - 18/grades 9 - 12) are challenged to design a team “brand,” hone teamwork skills, and build and program robots to perform tasks against a field of competitors.
+Teams work together to build, program and test robots with the guidance of adult mentors. Teams then compete with their robots as family and friends cheer from the stands at more than 160 events worldwide – all leading up to the 2018 FIRST Championship, April 18 - 21 in Houston, TX and April 25 - 28 in Detroit, MI.
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+### New Mexico State Senate!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThunderDogs5613/ThunderDogs5613.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sen. Bill Burt, R-Dist. 33, introduced the Thunderdogs FRC Team 5613 and their robot  to the New Mexico State Senate in Santa Fe.  
