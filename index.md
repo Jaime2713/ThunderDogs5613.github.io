@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# THUNDERDOGS FRC TEAM- 5613
 
 You can use the [editor on GitHub](https://github.com/ThunderDogs5613/ThunderDogs5613.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
